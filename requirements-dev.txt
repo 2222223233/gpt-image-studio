@@ -1,0 +1,2 @@
+# Development tests only. The application uses the Python standard library.
+Pillow>=10.4,<14
